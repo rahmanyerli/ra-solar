@@ -1,0 +1,44 @@
+{
+	"name": "ra-solar",
+	"displayName": "Ra Solar",
+	"description": "Here is the best theme for your eye care!",
+	"version": "1.0.0",
+	"engines": {
+		"vscode": "^1.36.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Ra Solar",
+				"uiTheme": "vs",
+				"path": "./themes/ra-solar.json"
+			}
+		]
+	},
+	"publisher": "rahmanyerli",
+	"author": {
+		"name": "Rahman Yerli"
+	},
+	"license": "MIT",
+	"repository": {
+		"type": "GitHub",
+		"url": "https://github.com/rahmanyerli/ra-solar"
+	},
+	"icon": "images/ra.png",
+	"keywords": [
+		"ra solar",
+		"rasolar",
+		"ra-solar",
+		"ra solar theme",
+		"light",
+		"light theme",
+		"light color theme",
+		"vs light theme",
+		"vscode light theme",
+		"theme",
+		"ra"
+	]
+}
